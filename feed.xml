@@ -7,7 +7,23 @@
 この番組はAIが制作し、AIの音声でお届けしています。報道や論評ではなく、ニュースを入口に考えるための教養番組です。特定の政党・政治家・国・立場を支持したり、未来を断定したりはしません。内容は各回に記した時点の情報にもとづくため、その後の続報で状況が変わっていることがあります。]]></description><copyright>© 2026 MISAWA SI AGENT</copyright>
 <itunes:author>MISAWA SI AGENT</itunes:author><itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://mainichi-market-radio.github.io/news-no-tobira/cover.jpg"/><itunes:category text="Education"/><itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>2026年11月6日 なぜ人は損切りできないのか。信用取引のリスク</title>
+<item><title>2026年11月9日 消費税減税、昔の発言と今の態度はどうつながるのか</title>
+<link>https://news-no-tobira.pages.dev/ep/32/</link><guid isPermaLink="false">news-no-tobira-ep032</guid>
+<pubDate>Mon, 09 Nov 2026 17:13:00 +0900</pubDate><description><![CDATA[食料品の消費税を下げる法案が衆議院を通り、参議院に送られました。十数年から数十年前の発言や立場と、今回の法案への態度を、与野党の五つの例で本人の説明とあわせて整理し、立場が変わる理由と反対のための反対に見える理由を一緒に考えます。
+
+（2026年11月8日時点の情報にもとづいています）
+
+ご注意：T0215 作り直し版（昔の発言5例）
+
+この番組はAIが制作し、AIの音声でお届けしています。報道や論評ではなく、ニュースを入口に考えるための教養番組です。特定の政党・政治家・国・立場を支持したり、未来を断定したりはしません。内容は各回に記した時点の情報にもとづくため、その後の続報で状況が変わっていることがあります。
+台本は、公開されている報道や資料をもとにAIが作成し、事実関係と政治的な中立性の確認を経て、AI音声で読み上げています。報道記事の文章はそのまま使わず、出典を記録したうえで要約しています。
+登場するみのりとジロウは、この番組のための創作キャラクターです。実在の人物の声や話し方をまねたものではありません。
+実在の人物の発言は、本人の発言として確認できたものだけを紹介し、確認できないものは「政府として」などの言い方にとどめています。
+誤りに気づいた場合は、ページと概要欄を訂正し、次の回の冒頭でお知らせします。
+
+台本：https://news-no-tobira.pages.dev/ep/32/]]></description>
+<enclosure url="https://mainichi-market-radio.github.io/news-no-tobira/episodes/ep032.mp3" length="8169264" type="audio/mpeg"/>
+<itunes:duration>1021</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item><item><title>2026年11月6日 なぜ人は損切りできないのか。信用取引のリスク</title>
 <link>https://news-no-tobira.pages.dev/ep/29/</link><guid isPermaLink="false">news-no-tobira-ep029</guid>
 <pubDate>Fri, 06 Nov 2026 12:10:00 +0900</pubDate><description><![CDATA[東証が個別銘柄の信用取引残高を毎日公表し始めて約1か月。日本経済新聞は、キオクシアなどAI・半導体関連株を信用で買った個人の含み損が大きくなっていると報じています。人はなぜ損を確定できないのか、信用取引のメリットと危うさ、歴史の二つの例を整理します。売買の助言ではなく、考えるための材料です。
 
